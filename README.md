@@ -4,13 +4,11 @@
 - 🌱 Studying Django and API's with Python
 - 👯 I’m looking to collaborate on solutions and innovations Web/Mobile
 - 📫 How to reach me: vncvieira00@gmail.com
-
-
-
 <div align="center">
   <a href="https://github.com/viniciusvieira00"/>
   <img height="250em" src="https://github-readme-stats.vercel.app/api?username=viniciusvieira00&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusvieira00&layout=compact&theme=dark"/>
+  <img height= "180em" src= "https://github-readme-stats.vercel.app/api/pin/?username=viniciusvieira00&repo=github-readme-stats"/>
 </div>
   
   
