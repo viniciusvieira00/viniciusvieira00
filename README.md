@@ -27,5 +27,6 @@
  
 </div>
 <div align = "center">
+  Commit Contributions!
   <img src = "https://github.com/viniciusvieira00/viniciusvieira00/blob/output/github-contribution-grid-snake.svg"/>
 </div>
